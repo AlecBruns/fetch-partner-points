@@ -1,9 +1,9 @@
-# fetch-payer-points
+# Fetch Payers Transactions App
 
 ## Building and Running
 
 1. `mvn clean install`
-2. `java -jar target/`
+2. `java -jar target/payers-transactions-0.0.1-SNAPSHOT.jar`
 
 ## Example Requests
 
